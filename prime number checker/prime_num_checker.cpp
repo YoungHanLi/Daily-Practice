@@ -6,5 +6,11 @@ int main(void){
 }
 
 void isPrime(void){
+	int num = inputNum();
+}
+
+int inputNum(void){
+	int num;
 	
+	return num;	
 }
