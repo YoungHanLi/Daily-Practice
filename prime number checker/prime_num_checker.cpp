@@ -5,8 +5,10 @@ int main(void){
 	return 0;
 }
 
-void isPrime(void){
+bool isPrime(void){
 	int num = inputNum();
+	
+	return true;
 }
 
 int inputNum(void){
