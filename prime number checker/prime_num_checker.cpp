@@ -11,6 +11,6 @@ void isPrime(void){
 
 int inputNum(void){
 	int num;
-	
+	num = num;
 	return num;	
 }
